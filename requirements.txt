@@ -1,0 +1,11 @@
+dj-database-url ==0.4.0
+Django==1.11.5
+django-bootstrap3==9.1.0
+gunicorn==19.4.5
+pip==9.0.1
+psycopg2==2.7.3.2
+pytz==2017.2
+setuptools==28.8.0
+virutalenv==15.1.0
+virtualenvwrapper-win==1.2.1
+whitenoise==2.0.6
