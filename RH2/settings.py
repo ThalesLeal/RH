@@ -121,4 +121,6 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
+ALLOWED_HOSTS = ['*']
+
 STATIC_ROOT = os.path.join(PROJECT_ROOT, 'staticfiles')
